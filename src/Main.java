@@ -31,7 +31,7 @@ public class Main {
         System.out.println("Task 3");
 
         int[] arifMean = {14855, 47586, 32547, 96854, 12645};
-        double summ = 0;
+        double  summ = 0;
         double mean;
         for (int i = 0; i < arifMean.length; i++) {
             summ += arifMean[i];
